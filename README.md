@@ -12,6 +12,7 @@ A small app that echoes back a nice JSON with some info from the incoming reques
 Is is usefull to trace/debug problems while developing REST APIs and SOAP WebServices.  
 
 # Features:
+0. Just under java 9
 1. Spring Boot 1.3.7, supporting fully executable JARs for Linux based operating systems, including “service” support
 2. Accepts HTTP methods:  GET, POST, PUT, DELETE and OPTIONS
 3. Accepts all content type (\*/\*)
